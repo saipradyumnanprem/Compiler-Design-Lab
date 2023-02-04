@@ -9,7 +9,7 @@ int main()
     nfa[3][1]=0;
     nfa[3][2]=4;
     nfa[4][1]=0;
-    nfa[4][1]=0;
+    nfa[4][2]=0;
     int dfa[10][2];
     int dstate[10];
     int i=1,n,j,k,flag=0,m,q,r;
