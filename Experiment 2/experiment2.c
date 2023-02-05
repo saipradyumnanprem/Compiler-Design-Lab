@@ -70,3 +70,5 @@ void main()
 	printf("\n");
 	getch();
 }
+
+//try output for (a|b)*abb
